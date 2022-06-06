@@ -1,1 +1,1 @@
-# Desenvolvendo um Sistema de Gerenciamento de Pessoas em API REST com Spring
+# Developing a People Management System in REST API with Spring
